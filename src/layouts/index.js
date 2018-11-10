@@ -27,8 +27,8 @@ const Layout = ({ children, data }) => (
     </div>
      <div className='navbar'>
         <Link to='/shows'>SHOWS</Link>
-        <Link to='/about'>ABOUT</Link>
-        <a href='https://open.spotify.com/artist/5NiuK62h02lFd1aWBqEFmP'>MUSIC</a>
+        <Link to='/press'>PRESS</Link>
+        <Link to='/music'>MUSIC</Link>
       </div>
   </div>
 )

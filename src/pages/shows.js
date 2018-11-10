@@ -12,7 +12,11 @@ const IndexPage = () => (
 	    	<img src='/static/nohm_text.svg' style={{width: '100%'}} />
 	    </div>
 	   	<div className='contentBox'>
-	   		<h5>SHOWS</h5>
+	   	<center>
+		Come see us play!
+		<br></br><br></br>
+		<a href="https://www.facebook.com/events/731327233894541/" target="new"><img src ='static/funsgiving2018.jpg' width="45%"></img></a>
+		</center>
 	   	</div>
 	</div>
 	
