@@ -12,13 +12,17 @@ const IndexPage = () => (
 	    	<img src='/static/nohm_text.svg' style={{width: '100%'}} />
 	    </div>
 	    <div className='contentBox'>
-	<center>
+
 	   Read the press on NHOMB's freshman release "Two Nighttimes"
-	   </center>	
+	
 	   <br></br>
 	   <p>
 	   <table>
-	  
+       <tr>
+	   <td>
+	   <a href="https://tinnitist.com/2018/11/09/indie-roundup-tgif-edition-seven-songs-to-jump-start-your-weekend/" target="new">Tinnitist - Track Names Song Review</a>
+	   </td>
+	   </tr>
 	   <tr>
 	   <td>
 	   <a href="https://varioussmallflames.co.uk/2018/11/01/neighborhood-of-make-believe-track-names/" target="new">Various Small Flames - Track Names Song Review</a>
