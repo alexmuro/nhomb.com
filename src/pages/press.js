@@ -18,7 +18,17 @@ const IndexPage = () => (
 	   <br></br>
 	   <p>
 	   <table>
+	   <tr>
+	   <td>
+	   <a href="https://soundblab.com/reviews/albums/21173-neighborhood-of-make-believe-two-nighttimes" target="new">Soundblab - Two Nighttimes Album Review</a>
+	   </td>
+	   </tr>
        <tr>
+	   <td>
+	   <a href="https://americana-uk.com/neighborhood-of-make-believe-two-nighttimes-five-kill-records-2018" target="new">Americana UK - Two Nighttimes Album Review</a>
+	   </td>
+	   </tr>
+	   <tr>
 	   <td>
 	   <a href="https://tinnitist.com/2018/11/09/indie-roundup-tgif-edition-seven-songs-to-jump-start-your-weekend/" target="new">Tinnitist - Track Names Song Review</a>
 	   </td>
