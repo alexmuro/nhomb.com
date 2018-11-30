@@ -14,10 +14,17 @@ const IndexPage = () => (
 	    <div className='contentBox'>
 
 	   Read the press on NHOMB's freshman release "Two Nighttimes"
+	   
+	   
 	
 	   <br></br>
 	   <p>
 	   <table>
+	   <tr>
+	   <td>
+	   <a href="https://www.timesunion.com/entertainment/article/new-LOCAL-MUSIC-13428464.php" target="new">Times Union - Two Nighttimes Album Review</a>
+	   </td>
+	   </tr>
 	   <tr>
 	   <td>
 	   <a href="https://soundblab.com/reviews/albums/21173-neighborhood-of-make-believe-two-nighttimes" target="new">Soundblab - Two Nighttimes Album Review</a>
